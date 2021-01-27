@@ -20,7 +20,7 @@ There are certain files that most GitHub repositories have:
 
 # Creating a repository for a Guided Project
 * From the Guided Project GitHub page, click the green "Use this template" button.
-    * Alternatively, from the organization page ([github.com/uvmcs120s2021](github.com/uvmcs120s2021)), click the green "New" button and choose the appropriate Guided Project from the "Repository template" dropdown.
+    * Alternatively, from the organization page ([https://github.com/uvmcs120s2021](github.com/uvmcs120s2021)), click the green "New" button and choose the appropriate Guided Project from the "Repository template" dropdown.
 * The owner defaults to the organization. Do NOT change it.
 * Choose a repository name, keeping with the required format in the Guided Project directions.
 * You can optionally provide a description for the project. This is what shows up when the repositories are listed in the organization. You can also edit/complete it later.
@@ -30,7 +30,7 @@ There are certain files that most GitHub repositories have:
 * Now follow the directions below to clone the repo into CLion.
 
 # Creating a repository for an Open-Ended Project
-* Go to the organization page on GitHub: [github.com/uvmcs120s2021](github.com/uvmcs120s2021)
+* Go to the organization page on GitHub: [https://github.com/uvmcs120s2021](github.com/uvmcs120s2021)
 * Click the green "New" button.
 * The repository template defaults to "No template". Do NOT change it.
 * The owner defaults to the organization. Do NOT change it.
