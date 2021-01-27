@@ -1,5 +1,5 @@
 # GitHub with CLion
-We will be using GitHub for all of the Guided Projects, Open-Ended Projects, and the Final Project this semester. You should bookmark the organization page on your preferred web browser: [github.com/uvmcs120s2021](github.com/uvmcs120s2021)
+We will be using GitHub for all of the Guided Projects, Open-Ended Projects, and the Final Project this semester. You should bookmark the organization page on your preferred web browser: [https://github.com/uvmcs120s2021](https://github.com/uvmcs120s2021)
 
 GitHub stores a master copy of your project files, which you will be able to edit, add to, remove from, and track the history. It's kind of like Google Docs for code.
 
